@@ -23,4 +23,5 @@ def generate_password(length=12, include_digits=True, include_special_chars=True
 
 # Example usage:
 password = generate_password()
+
 print("Generated Password:", password)
